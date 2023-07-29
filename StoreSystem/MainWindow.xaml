@@ -6,8 +6,7 @@
         xmlns:local="clr-namespace:StoreSystem"
         mc:Ignorable="d"
         Title="Store Name" Height="450" Width="800">
-    <StackPanel>
-        <Label>Name</Label>
-        <Button>Add</Button>
-    </StackPanel>
+    <Canvas>
+        <Menu Height="26" Width="800" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+    </Canvas>
 </Window>
